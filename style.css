@@ -162,6 +162,7 @@ span {
   flex-direction: column;
 }
 .project-boxes {
+  width:100%;
    justify-content: space-around;
    flex-wrap: wrap;
    height: 600px;

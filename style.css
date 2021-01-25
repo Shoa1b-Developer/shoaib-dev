@@ -235,7 +235,7 @@ footer > ul > li > a {
 .fa-envelope {
   font-size: 40px;
 }
-@media (max-width: 360px) {
+@media (max-width: 500px) {
   .nav {
     height: 70px;
     background: transparent;
@@ -331,7 +331,7 @@ footer > ul > li > a {
   font-size: 1.5rem;
 }
 .aboutMe {
-  height: 1000px;
+  height: 1200px;
 }
 #aboutMe {
   flex-wrap: wrap;
@@ -381,7 +381,7 @@ footer {
 }
 @media (max-width: 320px) {
   .aboutMe {
-    height: 1600px;
+    height: 1700px;
   }
   #levi {
     height: 450px;

@@ -253,7 +253,7 @@ footer > ul > li > a {
   .sidebar {
     position: absolute;
     top: 0;
-    left: -290px;
+    left: -350px;
     background: var(--secondary-color);
     min-height: 100vh;
     width:80%;

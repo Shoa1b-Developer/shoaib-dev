@@ -5,5 +5,5 @@ $(".menu").addEventListener('click',function() {
 });
 
 $(".cross").addEventListener('click',function(){
-  $(".sidebar").style.left = '-290px';
+  $(".sidebar").style.left = '-350px';
 });
